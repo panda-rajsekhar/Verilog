@@ -236,29 +236,8 @@ Verilog/SystemVerilog remains **firmly entrenched** as one of the two dominant H
 - **AI-assisted RTL design**: There is growing exploration of using large language models to assist with generating, debugging, and documenting Verilog/SystemVerilog code, and several EDA vendors have begun integrating generative AI features into their design suites.
 - **Formal verification growth**: Increasing reliance on formal property verification (using SystemVerilog Assertions) to complement traditional simulation-based verification, especially as design complexity increases.
 
-### 6.3 Industry Landscape Snapshot
 
-```mermaid
-mindmap
- root((Verilog / SystemVerilog<br/>Industry Role))
- RTL Design
- ASIC design houses
- FPGA vendors (AMD, Intel)
- SoC development
- Verification
- UVM methodology
- Constrained-random testing
- Formal verification / SVA
- Ecosystem Pressure
- Chisel / HLS as generators
- Open-source EDA tools
- RISC-V driven adoption
- AI-assisted RTL generation
- Commercial Tooling
- Synopsys VCS / Design Compiler
- Cadence Xcelium / Genus
- Siemens (Mentor) Questa
-```
+
 
 ---
 
