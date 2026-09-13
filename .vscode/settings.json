@@ -3,6 +3,8 @@
         "dumpfile",
         "dumpvars",
         "endmodule",
-        "testbench"
+        "nand",
+        "testbench",
+        "Verilog"
     ]
 }
