@@ -5,6 +5,7 @@
         "endmodule",
         "nand",
         "testbench",
-        "Verilog"
+        "Verilog",
+        "xnor"
     ]
 }
